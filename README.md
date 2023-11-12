@@ -1,1 +1,1 @@
-Open Bitcoin.py :)
+Just Run Bitcoin.py :)
